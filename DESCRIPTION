@@ -1,0 +1,11 @@
+Package: makesigmasemiPDRcppGSL
+Title: positive semidefinite
+Version: 0.0.1
+Date: 2020-03-29
+Author: Junghyun Jung
+Maintainer: Junghyun Jung <junghyunjj219@gmail.com>
+Description: positive semidefinite.
+Depends: R (>= 3.6.0) 
+Imports: Rcpp (>= 0.11.0)
+LinkingTo: Rcpp, RcppGSL
+License: GPL (>= 2)

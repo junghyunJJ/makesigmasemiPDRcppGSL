@@ -1,0 +1,3 @@
+useDynLib(makesigmasemiPDRcppGSL)
+importFrom(Rcpp, evalCpp)
+export(makesigmasemiPDRcppGSL)
