@@ -1,3 +1,2 @@
-# makesigma
-makesigma
 # makesigmasemiPDRcppGSL
+makesigmasemiPDRcppGSL
