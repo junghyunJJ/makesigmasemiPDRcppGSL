@@ -1,4 +1,7 @@
 # makesigmasemiPDRcppGSL
+The makesigmasemiPDRcppGSL was r package for [marsR](https://github.com/junghyunJJ/marsR) to compute the positive semidefinite of LD matrix.
+
+
 ## Installation
 - The C++ library for GNU [GSL](https://www.gnu.org/software/gsl/) is required.
 - makesigmasemiPDRcppGSL works only on ***nix (Linux, Unix such as macOS) system**. please check **.Platform$OS.type** function.
