@@ -10,11 +10,8 @@ install.packages("RcppGSL")
 install.packages("devtools")
 devtools::install_github("junghyunJJ/makesigmasemiPDRcppGSL")
 ```
-* * *
 
 ## Example
-
-#### Load exmaple dataset in R.
 ```
 > library(makesigmasemiPDRcppGSL)
 > data("testdata")
