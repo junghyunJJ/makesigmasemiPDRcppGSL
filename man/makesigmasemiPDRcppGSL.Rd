@@ -18,10 +18,8 @@ Compute the positive semidefinite using RcppGSL
 (https://www.biorxiv.org/content/10.1101/498360v1)
 }
 \examples{
-devtools::install_github("junghyunJJ/marsR")
-library(marsR)
-data(testdata)
-makesigmasemiPDRcppGSL(geno)
+data("testdata")
+makesigmasemiPDRcppGSL(testdata$geno)[1:5,1:5]
 }
 \author{Junghyun Jung}
 
